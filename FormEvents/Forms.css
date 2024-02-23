@@ -1,0 +1,78 @@
+/* #EmailText{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+
+#password{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.btnContainer{
+    width:180px;
+    align-self:flex-end
+} */
+
+/* signup.css */
+
+
+h1{
+    text-align: center;
+    color:black;
+    background-color: goldenrod;
+    max-width: 400px;
+    margin:auto;
+    border: 1px;
+   
+  } .container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-group1 {
+    margin-bottom: 15px;
+  }
+  
+  .form-check-input {
+    margin-right: 5px;
+  }
+  
+  .btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn:disabled {
+    background-color: #ccc;
+    
+  } 
+  
